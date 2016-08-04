@@ -168,6 +168,9 @@ We'll detail the event support for custom XML in the eventing design spec.
 |Data node inserted|	Occurs when a node is inserted.|
 |Data node replaced|	Occurs when a node is replaced.|
 
+**[Tell us what you think](https://github.com/OfficeDev/office-js-docs/issues/new?title=OpenSpec-CXP)**
+
+
 
 
 
